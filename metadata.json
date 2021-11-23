@@ -3,19 +3,19 @@
     "symbol":"",
     "description":"Honorary NFT for @belugiesNFT by @WaveTheVoiceNFT",
     "seller_fee_basis_points":2000,
-    "image":"https://ipfs.io/ipfs/QmUPaLFMg2V1WzKf8Ywx5rEkiDw2aJqbn62rqKnR3KBteA",
-    "animation_url":"https://ipfs.io/ipfs/QmezFomUw9ukAUHRd4GXPZ7C9sSYWwJNJhj8WZCmXri5f1",
+    "image":"https://bafybeicz4xvea4goh46y2hix6atp54eeti4l5zohrbmcgtvztanjbpb7a4.ipfs.infura-ipfs.io/",
+    "animation_url":"https://bafybeihxluvg4vsl7uvhr4da3wbt2nwd5rlp5vc3gssmycj4ek4qj2l24q.ipfs.infura-ipfs.io/",
     "attributes":[
     ],
     "external_url":"",
     "properties":{
        "files":[
           {
-             "uri":"https://ipfs.io/ipfs/QmUPaLFMg2V1WzKf8Ywx5rEkiDw2aJqbn62rqKnR3KBteA",
+             "uri":"https://bafybeicz4xvea4goh46y2hix6atp54eeti4l5zohrbmcgtvztanjbpb7a4.ipfs.infura-ipfs.io/",
              "type":"image/jpeg"
           },
           {
-             "uri":"https://ipfs.io/ipfs/QmezFomUw9ukAUHRd4GXPZ7C9sSYWwJNJhj8WZCmXri5f1",
+             "uri":"https://bafybeihxluvg4vsl7uvhr4da3wbt2nwd5rlp5vc3gssmycj4ek4qj2l24q.ipfs.infura-ipfs.io/",
              "type":"video/mp4"
           }
        ],
