@@ -1,0 +1,30 @@
+{
+    "name":"UGIE UGIE by WTV",
+    "symbol":"",
+    "description":"Honorary NFT for @belugiesNFT by @WaveTheVoiceNFT",
+    "seller_fee_basis_points":2000,
+    "image":"ugie-ugie.jpg",
+    "animation_url":"https://ipfs.io/ipfs/QmezFomUw9ukAUHRd4GXPZ7C9sSYWwJNJhj8WZCmXri5f1",
+    "attributes":[
+    ],
+    "external_url":"",
+    "properties":{
+       "files":[
+          {
+             "uri":"ugie-ugie.jpg",
+             "type":"image/jpeg"
+          },
+          {
+             "uri":"https://ipfs.io/ipfs/QmezFomUw9ukAUHRd4GXPZ7C9sSYWwJNJhj8WZCmXri5f1",
+             "type":"video/mp4"
+          }
+       ],
+       "category":"video",
+       "creators":[
+          {
+             "address":"H8HBRm8tCTfZWV8J2q3sZZo8krHe1474qjgW95Y48Eer",
+             "share":100
+          }
+       ]
+    }
+ }
