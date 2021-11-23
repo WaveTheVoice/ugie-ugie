@@ -3,7 +3,7 @@
     "symbol":"",
     "description":"Honorary NFT for @belugiesNFT by @WaveTheVoiceNFT",
     "seller_fee_basis_points":2000,
-    "image":"ugie-ugie.jpg",
+    "image":"https://ipfs.io/ipfs/QmUPaLFMg2V1WzKf8Ywx5rEkiDw2aJqbn62rqKnR3KBteA",
     "animation_url":"https://ipfs.io/ipfs/QmezFomUw9ukAUHRd4GXPZ7C9sSYWwJNJhj8WZCmXri5f1",
     "attributes":[
     ],
@@ -11,7 +11,7 @@
     "properties":{
        "files":[
           {
-             "uri":"ugie-ugie.jpg",
+             "uri":"https://ipfs.io/ipfs/QmUPaLFMg2V1WzKf8Ywx5rEkiDw2aJqbn62rqKnR3KBteA",
              "type":"image/jpeg"
           },
           {
@@ -22,7 +22,7 @@
        "category":"video",
        "creators":[
           {
-             "address":"H8HBRm8tCTfZWV8J2q3sZZo8krHe1474qjgW95Y48Eer",
+             "address":"4gDNSV4g69g4VxWrr74x5MDNW5hwpGAqXrp8i28oB6wB",
              "share":100
           }
        ]
